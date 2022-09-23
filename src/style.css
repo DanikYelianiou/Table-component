@@ -1,0 +1,17 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+a, h1, h2, h3, h4, h5, h6, p, span {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+}
